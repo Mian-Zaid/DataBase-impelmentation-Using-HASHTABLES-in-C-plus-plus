@@ -1,0 +1,5 @@
+ID,NAME,TYPE,STRONG_TO,WEAK_TO
+152|Chikorita|Grass|Ground,Water,Grass,Electric|Flyring,Poison,Bug,Fire,Ice
+198|Murcrow|Dark,Flying|Ghost,Grass,Dark|Rock,Electric,Ice,Fairy
+246|Larvitar|Rock,Ground|Normal,Flying,Poison,Rock,Fire|Righting,Ground,Steel,Water,Grass,Ice
+206|Dunsparce|Normal|None|Weak

@@ -1,0 +1,9 @@
+GYMID,NAME,LOCATION,LEADER,BADGE
+1|Pewter Gym|Pewter City|Brock|Boulder Badge
+2|Cerulean Gym|Cerulean City|Misty|Cascade Badge
+3|Vermilion Gym|Vermilion City|Lt. Surge|Thunder Badge
+4|Celadon Gym|Celadon City|Erika|Rainbow Badge
+5|Fuchsia Gym|Fuchsia City|Koga|Soul Badge
+6|Saffron Gym|Saffron City|Sabrina|Marsh Badge
+7|Cinnabar Gym|Cinnabar Island|Blaine|Volcano Badge
+8|Viridian Gym|Viridian City|Giovanni|Earth Badge

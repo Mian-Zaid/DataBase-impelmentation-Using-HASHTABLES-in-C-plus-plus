@@ -1,0 +1,17 @@
+GYMID,NAME,LOCATION,LEADER,BADGE
+1|Violet City Gym|Violet City|Falkner|Zephyr Badge
+2|Azalea Town Gym|Azalea Town|Bugsy|Insect Badge
+3|Goldenrod City Gym|Goldenrod City|Whitney|Plain Badge
+4|Ecruteak City Gym|Ecruteak City|Morty|Fog Badge
+5|Cianwood City Gym|Cianwood City|Chuck|Storm Badge
+6|Olivine City Gym|Olivine City|Jasmine|Mineral Badge
+7|Mahogany Town Gym|Mahogany Town|Pryce|Glacier Badge
+8|Blackthorn City Gym|Blackthorn City|Clair|Rising Badge
+9|Vermilion City Gym|Vermilion City|Lt. Surge|Thunder Badge
+10|Saffron City Gym|Saffron City|Sabrina|Marsh Badge
+11|Celadon City Gym|Celadon City|Erika|Rainbow Badge
+12|Fuchsia City Gym|Fuchsia City|Janine|Soul Badge
+13|Cerulean City Gym|Cerulean City|Misty|Cascade Badge
+14|Pewter City Gym|Pewter City|Brock|Boulder Badge
+15|Seafoam Islands Gym|Seafoam Islands|Blaine|Volcano Badge
+16|Viridian City Gym|Viridian City|Blue|Earth Badge

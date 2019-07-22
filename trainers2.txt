@@ -1,0 +1,6 @@
+FIRSTNAME,LASTNAME,AGE,BADGES_HELD,POKEMON_OWNED
+Will|Unknown|22|Soul,Rainbow,Marsh,Fog|Xatu,Exeggutor,Jynx,Slowbro,Xatu
+Koga|Zagnit|35|Earth,Soul,Rainbow,Mineral|Ariados,Venomoth,Forretress,Muk,Crobat
+Bruno|Morikawa|29|Insect,Storm,Boulder|Hitmontop,Hitmonchan,Hitmonlee,Machamp,Onix
+Karen|Unknown|33|Earth,Soul,Rainbow,Fog,Zephyr|Umbreon,Vileplume,Gengar,Murkrow,Houndoom
+Lance|Grayson|18|Zephyr,Insect,Plain,Fog,Storm,Mineral,Glacier,Rising,Thunder,Marsh,Rainbow,Soul,Cascade,Boulder,Volcano,Earth|Gyarados,Dragonite,Dragonite,Dragonite,Charizard,Aerodactyl
